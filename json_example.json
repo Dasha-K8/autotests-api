@@ -1,0 +1,26 @@
+{
+  "name": "Иван",
+  "age": 30,
+  "is_student": false,
+  "courses": [
+    "Python",
+    "QA Automation",
+    "API Testing",
+    {
+      "name":"Alise"
+    }
+  ],
+  "address": {
+    "city": "Москва",
+    "zip": "101008",
+    "point": { "courses": [
+    "Python",
+    "QA Automation",
+    "API Testing",
+    {
+      "name":"Alise"
+    }
+  ]
+    }
+  }
+}
